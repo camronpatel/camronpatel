@@ -1,4 +1,4 @@
-# Hi there, I'm Camron! 👋
+# Camron Patel! 👋
 
 ## 🎓 About Me
 

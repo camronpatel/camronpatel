@@ -4,7 +4,7 @@
 
 I'm a senior Computer Science student at **UNC Charlotte** (GPA: 3.64), concentrating in **Data Science** with minors in Mathematics and Religious Studies, graduating in **May 2026**.
 
-I'm driven by the challenge of turning raw data into meaningful insights—whether that's building machine learning models to predict outcomes, designing interactive dashboards that make complex information accessible, or uncovering patterns that inform strategic decisions. My technical toolkit includes Python, SQL, Tableau, Pandas, Scikit-learn, and Excel, and I've applied these skills across projects in predictive modeling, exploratory analysis, and data visualization.
+I'm driven by the challenge of turning raw data into meaningful insights, if that's building machine learning models to predict outcomes, designing interactive dashboards that make complex information accessible, or uncovering patterns that inform strategic decisions. My technical toolkit includes Python, SQL, Tableau, Pandas, Scikit-learn, and Excel, and I've applied these skills across projects in predictive modeling, exploratory analysis, and data visualization.
 
 Beyond academics, I enjoy hiking, solving puzzles, and exploring how technology can create positive, real-world impact.
 
@@ -16,8 +16,8 @@ languages = ['Python', 'SQL', 'Java', 'JavaScript', 'HTML/CSS']
 ```
 
 **Data Science & Machine Learning**
-- **Analysis:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks
-- **ML Models:** Random Forest, KNN, Logistic Regression, Linear Regression, Clustering, PCA
+- **Analysis:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks, TensorFlow
+- **ML Models:** Random Forest, KNN, Logistic Regression, Linear Regression, Clustering
 - **Statistics:** Hypothesis Testing, Feature Engineering
 
 **Data Visualization**

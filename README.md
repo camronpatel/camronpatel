@@ -26,12 +26,10 @@ languages = ['Python', 'SQL', 'Java', 'JavaScript', 'HTML/CSS']
 **Data Management**
 - Database Design, SQL Queries, Data Cleaning, Normalization, Data Transformation
 
-## 
+## Check out some of my projects below!
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camron-patel-2203061ba)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:patelcamron@gmail.com)
----
 
-<p align="center">
-  <i>💡 Open to Data Science, Data Analytics, Business Analytics, and Product Management opportunities for Summer 2026</i>
-</p>
